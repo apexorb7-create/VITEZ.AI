@@ -1,0 +1,6 @@
+{
+  "name": "VITEZ.AI",
+  "description": "O'zbekiston davlat xaridlari va tenderlar intellektual monitoringi hamda tahlil platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
